@@ -73,6 +73,6 @@ USB
 * Microsoft Edge is not removed
 * Microsoft 365 is not force-uninstalled
 * Xbox, Solitaire, Search, Task View → only hidden, not removed
-* Full cleanup is optional and controlled via `Cleanup.ps1`
+* Full cleanup is optional and controlled via `RunOnce.ps1` by uncommenting the cleanup part of the code
 
 ---
