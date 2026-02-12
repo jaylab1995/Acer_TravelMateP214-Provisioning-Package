@@ -1,0 +1,59 @@
+﻿    -------------------
+    Technician Details:
+    -------------------
+    Technician:       Harvey B. Baroso
+    Date:             02/04/2026 17:20:46
+
+    --------------------
+    Equipment Details:
+    --------------------
+Serial No            : 9S715P2121026ZRC000032
+Type of Equipment    : Laptop
+Property No          : PROP-NP-02
+Site Name            : MOO Pio Duran
+Division             : 4Ps
+Program/Section      : 4Ps - Regional Project Management Office (RPMO)
+Acquisition type     : DSWD Acquired
+Date of Acquisition  : 12/25/2025
+Device Price         : 49000
+Device Custodian     : Tochi Meyers
+Employee ID          : 1-848002
+Employee Name        : Chato Meyrs
+Position             : ITO III
+AD Name              : cmeyrs
+Domain Name          : ENTDSWD.LOCAL
+Administration Type  : User
+
+
+    ----------------------
+    System Configuration:
+    ----------------------
+    PC Name:          05-345A602B1CBF
+    Local Admin:      ICTMSFO5
+    Status:           Complete
+
+    AD Account:       cmeyrs (ENTDSWD.LOCAL)
+    Status:           [SIMULATED] Complete
+
+    -------------------
+    Software Installed:
+    -------------------
+    Status:           Skipped - No installers found
+
+
+================= SYSTEM REPORT ================
+ Date:          2026-02-04 05:20:24 PM
+ Hostname:      05-345A602B1CBF
+ OS:            Microsoft Windows 11 Pro (25H2) Build 26200
+ CPU:           Intel(R) Core(TM) i9-14900HX
+ GPU:           Intel(R) UHD Graphics & NVIDIA GeForce RTX 4060 Laptop GPU
+ RAM:           16 GB @ 5200MHz
+ Serial:        9S715P2121026ZRC000032
+ Brand/Model:   MSI Creator M16 HX C14VFG
+ Ethernet MAC:  34-5A-60-2B-1C-BF
+ WiFi MAC:      EC-8E-77-C0-51-6B
+------------------- STORAGE --------------------
+ Details:       [C: Used:416.81GB / Left:45.13GB / Total:461.94GB (90.2%)] 
+ Decrypted OS Key: R6PBV-YH2KG-8FJ8F-2DQMJ-6MT6P
+ Backup OS Key:    H3DNW-WTYJT-MVQFM-M4YTV-KHJXC
+================================================
