@@ -41,7 +41,7 @@ USB
 **Part 2 – Post-PPKG Configuration**
 
 1. **Copy the `Part2` folder to Desktop**.
-2. Run `RunOnce_Admin.bat` from Desktop → launches all scripts as Administrator.
+2. Run `RunOnce_Admin.bat` from Desktop → launches all scripts as Administrator. It automatically execute processes from number 3 to 8.
 3. Execute `RemoveBloat.ps1` → core debloating and UI cleanup.
 4. Execute `Cleanup.ps1` → cleans all files inside the `Part2` folder.
 5. Apply `StartLayout.ps1` → configures Start menu layout.
