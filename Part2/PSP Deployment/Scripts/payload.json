@@ -1,0 +1,32 @@
+﻿{
+    "embeds":  [
+                   {
+                       "color":  3066993,
+                       "title":  "âœ… New Device Provisioned",
+                       "timestamp":  "2026-01-26T07:44:11.8060546Z",
+                       "fields":  [
+                                      {
+                                          "value":  "Technician: Kenneth S. Mayor\nDate: 01/26/2026 15:44:11",
+                                          "name":  "Technician Details"
+                                      },
+                                      {
+                                          "value":  "Serial No: 9S715P2121026ZRC000032\nType of Equipment: Laptop\nProperty No: PROP-NP-02\nSite Name: MOO Pio Duran\nDivision: 4Ps\nProgram/Section: 4Ps - Regional Project Management Office (RPMO)\nAcquisition type: DSWD Acquired\nDate of Acquisition: 12/25/2025\nDevice Price: 49000\nDevice Custodian: Tochi Meyers\nEmployee ID: 1-848002\nEmployee Name: Chato Meyrs\nPosition: ITO III\nAD Name: cmeyrs\nDomain Name: ENTDSWD.LOCAL\nAdministration Type: User\n",
+                                          "name":  "Equipment Details"
+                                      },
+                                      {
+                                          "value":  "PC Name: 05-345A602B1CBF\nLocal Admin: ICTMSFO5\nAD Account: cmeyrs (ENTDSWD.LOCAL)",
+                                          "name":  "System Configuration"
+                                      },
+                                      {
+                                          "value":  "Status: Skipped - No installers found\n",
+                                          "name":  "Software Installed"
+                                      },
+                                      {
+                                          "value":  "Date: 2026-01-26 03:43:37 PM\nHostname: 05-345A602B1CBF\nOS: Microsoft Windows 11 Pro (25H2) Build 26200\nCPU: Intel(R) Core(TM) i9-14900HX\nGPU: Intel(R) UHD Graphics \u0026 NVIDIA GeForce RTX 4060 Laptop GPU\nRAM: 16 GB @ 5200MHz\nSerial: 9S715P2121026ZRC000032\nModel: MSI Creator M16 HX C14VFG\nEthernet MAC: 34-5A-60-2B-1C-BF\nWiFi MAC: EC-8E-77-C0-51-6B\nDisk: [C: Used:426.27GB / Left:35.67GB / Total:461.94GB (92.3%)] \nOS Key Decrypted: R6PBV-YH2KG-8FJ8F-2DQMJ-6MT6P\nOS Key Backup: H3DNW-WTYJT-MVQFM-M4YTV-KHJXC",
+                                          "name":  "System Specs"
+                                      }
+                                  ]
+                   }
+               ],
+    "username":  "Provisioning Bot"
+}
